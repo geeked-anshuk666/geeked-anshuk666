@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NodeJs <br>🌱 I’m currently learning Solidity , Java Springboot<br>💬 Ask me about Java, Python, C, Machine learning ,Deep learning ,Front-end development ,LAMP Full-stack development ,SQL<br>⚡ Fun fact about me: I learnt PHP and Flask in a day for building a project.
+🔭 I’m currently working on NodeJs <br>🌱 I’m currently learning Solidity , Java Springboot<br>💬 Ask me about Java, Python, C, Machine learning ,Deep learning ,Front-end development ,LAMP Full-stack development ,SQL<br>⚡ Fun fact about me: I learnt PHP and Flask in a day for building a project. <br>👀🔎 Curious about: Blockchain, AI/ML/DL, Ethical Hacking and cybersecurity, Data Analytics and Software development.
 
 
 ## 🌐 Socials:
